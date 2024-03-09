@@ -1,3 +1,3 @@
 # To-Do App
 
-Save your daily Work Lists.
+Save your daily Tasks List.
